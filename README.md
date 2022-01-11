@@ -22,4 +22,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
 N/A
 
 ## Author:
-Khoa Do. All Right Reserved.
+Khoa Do.
+
+## Notes
+N/A

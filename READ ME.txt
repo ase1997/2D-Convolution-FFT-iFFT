@@ -1,3 +1,0 @@
-1) Result images in the report and the kddo_images are some examples from running the codes with some combinations of filter type, kernel, etc. Please, test any other combinations that are not shown in the report and kddo_images folder
-
-2) To run and get results from the code, make a copy of the original images in kddo_images folder and put them in the same location of the code.

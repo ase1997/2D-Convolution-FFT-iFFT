@@ -19,4 +19,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
   - Final report details the implementations of the functions in this project along with the results + analysis
 
 ## Refernce
-[^1] abc
+N/A
+
+## Author:
+Khoa Do. All Right Reserved.

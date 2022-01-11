@@ -20,4 +20,4 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
 
 ## Demo
 
-![lena](https://user-images.githubusercontent.com/27352820/149004049-43981c9b-7937-4087-9d87-6c4715a872bf.png)
+![lenawef](https://user-images.githubusercontent.com/27352820/149004049-43981c9b-7937-4087-9d87-6c4715a872bf.png)

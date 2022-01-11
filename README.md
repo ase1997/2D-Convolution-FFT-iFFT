@@ -24,5 +24,5 @@ N/A
 ## Author:
 Khoa Do.
 
-## Notes
+## Additional Notes
 N/A

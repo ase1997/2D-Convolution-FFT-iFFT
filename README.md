@@ -11,5 +11,6 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
   - cv2
   - Spyder IDE (used) and/or Linux
   
-## About this repo.
-sdfasg
+## About the Repo.
+  - kddo_code contains **P1_q1.py** and **P2_q2.py**
+    - **

@@ -18,7 +18,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
   - kddo_images contains a folder of original images and a folder of result images
   - Final report details the implementations of the functions in this project along with the results + analysis
 
-## Refernce
+## Reference
 N/A
 
 ## Author:

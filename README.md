@@ -9,6 +9,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 1
 ## Dependencies:
   - numpy
   - cv2
+  - Spyder IDE (used) and/or Linux
   
-# dsfsf
+## About this repo.
 sdfasg

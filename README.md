@@ -1,6 +1,6 @@
 # 2D-Convolution-FFT-iFFT
 
-## Type: Individual Academic Project
+## Type: Academic Individual Project
 
 ## Project Description
 NCSU ECE 558 (Digital Imaging Systems) Project 1
